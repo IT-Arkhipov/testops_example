@@ -2,3 +2,4 @@ __pycache__/
 test_ops/allure-results/
 test_ops/.pytest_cache/
 venv/
+idea/
