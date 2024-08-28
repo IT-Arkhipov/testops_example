@@ -28,4 +28,4 @@ def test_sum():
     with allure.step("Сложить два числа: 2, 5"):
         with allure.step("Ожидаемый результат"):
             with allure.step("Результат равен сумме двух чисел - 7"):
-                assert 2 + 5 != 7
+                assert 2 + 5 == 7
